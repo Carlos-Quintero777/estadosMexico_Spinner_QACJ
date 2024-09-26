@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">estadosMexico_Spinner_QACJ</string>
+    <string name="lblestados">ESTADOS DE LA REPUBLICA MEXICANA</string>
+    <string name="lblelegir">¿CUÁL DE ESTOS ESTADOS DEL BONITO PAIS MEXINARCO TE DA MAS MIEDO?</string>
+    <string name="lblmensaje">POR FAVOR, SELECCIONA UN ESTADO DE LA LISTA DE ABAJO EN EL QUE VIVIRÁS EN 10 AÑOS </string>
+
+
+    <string-array name="lestados">
+        <item>ESTADO DE MÉXICO</item>
+        <item>GUADALAJARRA</item>
+        <item>MUERTERREY</item>
+        <item>PUEBLAYORK</item>
+        <item>MATAULIPAS</item>
+        <item>VERAKUSH</item>
+        <item>OAXASHINTONG</item>
+        <item>ZACATUERCAS</item>
+    </string-array>
+</resources>
